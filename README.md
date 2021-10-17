@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/four-card-feature-section-html-css-flexbox-MOuWuCiYR)
+- Live Site URL: [LIVE SITE](https://four-card-feature-section-obaryo.vercel.app/)
 
 ## My process
 
